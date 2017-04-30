@@ -1,0 +1,78 @@
+.block1{
+  background-color: red;
+  color: white;
+  margin-right: 1250px;
+}
+.block2{
+  background-color: #3232C2;
+  color: black;
+  margin-right: 1000px;
+  padding-bottom: 35px;
+}
+hr{
+  margin-right: 950px;
+}
+.block3{
+  background-color: yellow;
+  color: black;
+  margin-right: 1000px;
+  padding-bottom: 20px;
+}
+.one{
+  background-color: red;
+padding-bottom: 50px;
+margin-right: 1270px;
+}
+.two{
+  background-color: orange;
+  padding-bottom: 50px;
+  margin-right: 1220px;
+}
+.three{
+  background-color: blue;
+  padding-bottom: 50px;
+  margin-right: 1170px;
+}
+.z4{
+  background-color: sandybrown;
+  margin-right: 1030px;
+  padding-left: 30px;
+  font-size: 50px;
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
+h1{
+  color: #6b220f;
+}
+h3{
+  color: #8C5B2B;
+}
+ins{
+  color: #114211;
+}
+.z6{
+  border-style: dashed;
+  margin-right: 900px;
+  padding-top: 5px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+}
+.z7{
+  border-style: dashed;
+  margin-right: 900px;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+.stepen{
+  color: blue;
+  font-size: 15px;
+  font-style: normal;
+}
+.stepen1{
+  color: red;
+  font-size: 15px;
+  font-style: normal;
+}
+.z71{
+  font-size: 25px;
+}
